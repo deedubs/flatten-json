@@ -1,0 +1,23 @@
+{
+  "name": "flatten-json",
+  "version": "0.0.1",
+  "description": "Flatten JSON extracted from https://github.com/NodeFly/node-foreman/blob/master/lib/envs.js",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deedubs/flatten-json.git"
+  },
+  "keywords": [
+    "flatten",
+    "json",
+    "env"
+  ],
+  "author": "Dan Williams <me@deedubs.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/deedubs/flatten-json/issues"
+  }
+}
